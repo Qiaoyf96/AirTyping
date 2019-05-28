@@ -1,0 +1,3 @@
+/Users/yifan/Desktop/AirTyping/tester/CMakeFiles/rebuild_cache.dir
+/Users/yifan/Desktop/AirTyping/tester/CMakeFiles/edit_cache.dir
+/Users/yifan/Desktop/AirTyping/tester/CMakeFiles/test.dir
